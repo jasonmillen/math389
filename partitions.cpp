@@ -5,8 +5,8 @@
 
 using namespace std;
 
-const int MOD = 3;
-const int DEG = 25;
+const int MOD = 2;
+const int DEG = 48;
 
 vector<long long> numIrrFoundMod3 = {0, 3, 3, 8, 18, 48, -1, -1 , -1, -1, -1, -1, -1, -1, -1, -1};
 
@@ -257,6 +257,9 @@ long long findNumIrr(int deg, int mod) {
 
 
 int main() {
+
+    //vector< vector<int> > partitions = printAllUniquePartsx(70);
+    //print2dVec(partitions);
 
     findNumIrr(DEG, MOD);
 
