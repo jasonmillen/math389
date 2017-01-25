@@ -6,7 +6,7 @@
 using namespace std;
 
 const int MOD = 2;
-const int DEG = 48;
+const int DEG = 100;
 
 vector<long long> numIrrFoundMod3 = {0, 3, 3, 8, 18, 48, -1, -1 , -1, -1, -1, -1, -1, -1, -1, -1};
 
@@ -191,7 +191,7 @@ unsigned long long multiChoose(unsigned long long n, unsigned long long k) {
 // mod specific
 long long numberFromPartiton(vector<int> & partition, vector<unsigned long long> & prevCalcNumIrr) {
 
-    printVec(partition);
+    //printVec(partition);
 
     int curCount = 1;
     int curNum = partition[0];
@@ -261,7 +261,11 @@ int main() {
     //vector< vector<int> > partitions = printAllUniquePartsx(70);
     //print2dVec(partitions);
 
-    findNumIrr(DEG, MOD);
+    //findNumIrr(DEG, MOD);
+
+    unsigned long long i = 18446744073709551615;
+    cout << i << endl;
+    cout << i + 1 << endl;
 
 }
 
