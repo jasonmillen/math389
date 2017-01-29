@@ -90,3 +90,10 @@ num irr with mod 3 at degree 90 is 9.69774e+40
 num irr with mod 3 at degree 91 is 2.87735e+41
 num irr with mod 3 at degree 92 is 8.53823e+41
 num irr with mod 3 at degree 93 is 2.53392e+42
+num irr with mod 3 at degree 94 is 7.5209e+42
+num irr with mod 3 at degree 95 is 2.23252e+43
+num irr with mod 3 at degree 96 is 6.6278e+43
+num irr with mod 3 at degree 97 is 1.96784e+44
+num irr with mod 3 at degree 98 is 5.84328e+44
+num irr with mod 3 at degree 99 is 1.73528e+45
+num irr with mod 3 at degree 100 is 5.15378e+45
