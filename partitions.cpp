@@ -8,7 +8,7 @@ using namespace std;
 const int MOD = 2;
 const int DEG = 100;
 
-vector<long long> numIrrFoundMod3 = {0, 3, 3, 8, 18, 48, -1, -1 , -1, -1, -1, -1, -1, -1, -1, -1};
+vector<double> numIrrFoundMod3 = {0, 3, 3, 8, 18, 48, -1, -1 , -1, -1, -1, -1, -1, -1, -1, -1};
 
 
 
@@ -87,13 +87,13 @@ int numDeg1MonicIrr(int mod) {
     return mod;
 }
 
-unsigned long long
-choose(unsigned long long n, unsigned long long k) {
+double
+choose(double n, double k) {
     if (k > n) {
         return 0;
     }
-    unsigned long long r = 1;
-    for (unsigned long long d = 1; d <= k; ++d) {
+    double r = 1;
+    for (double d = 1; d <= k; ++d) {
         r *= n--;
         r /= d;
     }
@@ -184,22 +184,22 @@ vector< vector<int> > printAllUniqueParts(int n)
     }
 }
 
-unsigned long long multiChoose(unsigned long long n, unsigned long long k) {
+double multiChoose(double n, double k) {
     return choose(n + k - 1, k);
 }
 
 // mod specific
-long long numberFromPartiton(vector<int> & partition, vector<unsigned long long> & prevCalcNumIrr) {
+double numberFromPartiton(vector<int> & partition, vector<double> & prevCalcNumIrr) {
 
     //printVec(partition);
 
     int curCount = 1;
     int curNum = partition[0];
-    unsigned long long total = 1;
+    double total = 1;
     for(int i = 1; i < partition.size(); i++) {
         if(partition[i] != curNum) {
-            unsigned long long n = prevCalcNumIrr[curNum];
-            unsigned long long k = curCount;
+            double n = prevCalcNumIrr[curNum];
+            double k = curCount;
             total *= multiChoose(n, k);
 
             curCount = 1;
@@ -211,17 +211,17 @@ long long numberFromPartiton(vector<int> & partition, vector<unsigned long long>
     }
 
     // do last partition
-    unsigned long long n = prevCalcNumIrr[curNum];
-    unsigned long long k = curCount;
+    double n = prevCalcNumIrr[curNum];
+    double k = curCount;
     total *= multiChoose(n, k);
 
     //cout << "total: " << total << endl;
     return total;
 }
 
-long long findNumIrr(int deg, int mod) {
+double findNumIrr(int deg, int mod) {
 
-    vector<unsigned long long> prevCalcNumIrr;
+    vector<double> prevCalcNumIrr;
     prevCalcNumIrr.push_back(0); // dummy value to keep indexes 1 indexed
     prevCalcNumIrr.push_back(numDeg1MonicIrr(mod));
 
@@ -231,13 +231,13 @@ long long findNumIrr(int deg, int mod) {
         if(true) {
             vector< vector<int> > partitions = printAllUniquePartsx(curDegree);
 
-            unsigned long long total = 0;
+            double total = 0;
 
             // start at 1 to avoid irreducible partition (first partition)
             for(size_t i = 1; i < partitions.size(); i++) {
                 total +=  numberFromPartiton(partitions[i], prevCalcNumIrr);
             }
-            unsigned long long totalPol = pow(mod, curDegree);
+            double totalPol = pow(mod, curDegree);
             prevCalcNumIrr.push_back(totalPol - total);  
         }
         else {
@@ -261,11 +261,11 @@ int main() {
     //vector< vector<int> > partitions = printAllUniquePartsx(70);
     //print2dVec(partitions);
 
-    //findNumIrr(DEG, MOD);
+    findNumIrr(DEG, MOD);
 
-    unsigned long long i = 18446744073709551615;
-    cout << i << endl;
-    cout << i + 1 << endl;
+    // double i = 18446744073709551615;
+    // cout << i << endl;
+    // cout << i + 1 << endl;
 
 }
 
