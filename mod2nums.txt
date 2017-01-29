@@ -83,3 +83,4 @@ num irr with mod 2 at degree 83 is 1.16523e+23
 num irr with mod 2 at degree 84 is 2.30272e+23
 num irr with mod 2 at degree 85 is 4.55125e+23
 num irr with mod 2 at degree 86 is 8.99666e+23
+num irr with mod 2 at degree 87 is 1.77865e+24
