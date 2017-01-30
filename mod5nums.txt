@@ -93,3 +93,4 @@ num irr with mod 5 at degree 93 is 1.08574e+63
 num irr with mod 5 at degree 94 is 5.37097e+63
 num irr with mod 5 at degree 95 is 2.65722e+64
 num irr with mod 5 at degree 96 is 1.31477e+65
+num irr with mod 5 at degree 97 is 6.50607e+65
