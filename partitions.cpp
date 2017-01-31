@@ -5,8 +5,8 @@
 
 using namespace std;
 
-const int MOD = 2;
-const int DEG = 100;
+const int MOD = 5;
+const int DEG = 200;
 
 vector<double> numIrrFoundMod3 = {0, 3, 3, 8, 18, 48, -1, -1 , -1, -1, -1, -1, -1, -1, -1, -1};
 
