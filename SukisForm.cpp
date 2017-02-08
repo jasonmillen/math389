@@ -117,9 +117,9 @@ int w_val(unordered_map<int, int> & prime_factors) {
     return w;
 }
 
-int calcForKValue(int P, int k, int s, int w, vector< vector<int> > & comb_solution) {
+double calcForKValue(int P, int k, int s, int w, vector< vector<int> > & comb_solution) {
 
-    int solution = 0;
+    double solution = 0;
 
     if(k > 0) {
         for(size_t i = 0; i < comb_solution.size(); i++) {
@@ -143,9 +143,9 @@ int calcForKValue(int P, int k, int s, int w, vector< vector<int> > & comb_solut
     return solution;
 }
 
-int sukisForm(int P, int n) {
+double sukisForm(int P, int n) {
 
-    int solution = 0;
+    double solution = 0;
 
     vector<int> unique_prime_factors;
     unordered_map<int, int> prime_factors = primeFactors(n, unique_prime_factors);
@@ -161,11 +161,9 @@ int sukisForm(int P, int n) {
 
     for(size_t i = 1; i <= unique_prime_factors.size(); i++) {
         combinations(0, i, unique_prime_factors, combination, comb_solution);
-        print2dVec(comb_solution);
 
         solution += calcForKValue(P, i, s, w, comb_solution);
 
-        cout << "--\n";
         combination.clear();
         comb_solution.clear();
     }
@@ -176,11 +174,11 @@ int sukisForm(int P, int n) {
 /* Driver program to test above function */
 int main() {
 
-
-    int n = 10;
     int P = 3;
 
-    cout << sukisForm(P, n) << endl;
+    for(int i = 2; i <= 100; i++) {
+        cout << i << ": " << sukisForm(P, i) << endl;
+    }
 
     return 0;
 }
