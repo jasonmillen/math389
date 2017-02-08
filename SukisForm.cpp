@@ -176,6 +176,7 @@ int sukisForm(int P, int n) {
 /* Driver program to test above function */
 int main() {
 
+
     int n = 8;
     int P = 3;
 
