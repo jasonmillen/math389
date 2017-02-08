@@ -132,7 +132,7 @@ int calcForKValue(int P, int k, int s, int w, vector< vector<int> > & comb_solut
         }
     }
     else {
-        solution = w;
+        solution = pow(P, w);
     }
 
 
@@ -170,14 +170,14 @@ int sukisForm(int P, int n) {
         comb_solution.clear();
     }
 
-    return solution;
+    return solution / n;
 }
  
 /* Driver program to test above function */
 int main() {
 
 
-    int n = 8;
+    int n = 10;
     int P = 3;
 
     cout << sukisForm(P, n) << endl;
