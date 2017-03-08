@@ -1,0 +1,24 @@
+-rule has to have size two at least for one bit or else sequenze size will never change
+
+-opposites seem to work
+
+fixed points:
+0 -> 01
+1 -> 0
+seed: 0
+-----------
+0 -> 01
+1 -> 10
+seed: 0
+-----------
+rule['0'] = "1";
+rule['1'] = "10";
+
+string seed = "1";
+
+--------------------
+
+rule['0'] = "01";
+rule['1'] = "10";
+
+string seed = "1";
