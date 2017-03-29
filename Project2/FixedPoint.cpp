@@ -131,11 +131,19 @@ void findFixedPoints() {
 				cout << "1 -> " << rule['1'] << endl;
 				cout << "seed: " << seed << endl;
 
-				if(testFixedPoint(rule, seed, 15)) {
+				if(testFixedPoint(rule, seed, 5)) {
 					cout << "YES" << endl;
 				}
 				else {
-					cout << "NO" << endl;
+					
+					seed = generateNewSeq(rule, seed);
+
+					if(testFixedPoint(rule, seed, 5)) {
+						cout << "YES - non strict" << endl;
+					}
+					else {
+						cout << "NO" << endl;
+					}
 				}
 				cout << "----------" << endl;
 
