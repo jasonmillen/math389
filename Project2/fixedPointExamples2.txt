@@ -6,7 +6,7 @@ YES
 0 -> 0
 1 -> 0
 seed: 1
-NO
+YES - non strict
 ----------
 0 -> 0
 1 -> 0
@@ -16,17 +16,17 @@ YES
 0 -> 0
 1 -> 0
 seed: 01
-NO
+YES - non strict
 ----------
 0 -> 0
 1 -> 0
 seed: 10
-NO
+YES - non strict
 ----------
 0 -> 0
 1 -> 0
 seed: 11
-NO
+YES - non strict
 ----------
 0 -> 0
 1 -> 0
@@ -36,37 +36,37 @@ YES
 0 -> 0
 1 -> 0
 seed: 001
-NO
+YES - non strict
 ----------
 0 -> 0
 1 -> 0
 seed: 010
-NO
+YES - non strict
 ----------
 0 -> 0
 1 -> 0
 seed: 011
-NO
+YES - non strict
 ----------
 0 -> 0
 1 -> 0
 seed: 100
-NO
+YES - non strict
 ----------
 0 -> 0
 1 -> 0
 seed: 101
-NO
+YES - non strict
 ----------
 0 -> 0
 1 -> 0
 seed: 110
-NO
+YES - non strict
 ----------
 0 -> 0
 1 -> 0
 seed: 111
-NO
+YES - non strict
 ----------
 0 -> 0
 1 -> 1
@@ -146,7 +146,7 @@ YES
 0 -> 0
 1 -> 00
 seed: 1
-NO
+YES - non strict
 ----------
 0 -> 0
 1 -> 00
@@ -156,17 +156,17 @@ YES
 0 -> 0
 1 -> 00
 seed: 01
-NO
+YES - non strict
 ----------
 0 -> 0
 1 -> 00
 seed: 10
-NO
+YES - non strict
 ----------
 0 -> 0
 1 -> 00
 seed: 11
-NO
+YES - non strict
 ----------
 0 -> 0
 1 -> 00
@@ -176,37 +176,37 @@ YES
 0 -> 0
 1 -> 00
 seed: 001
-NO
+YES - non strict
 ----------
 0 -> 0
 1 -> 00
 seed: 010
-NO
+YES - non strict
 ----------
 0 -> 0
 1 -> 00
 seed: 011
-NO
+YES - non strict
 ----------
 0 -> 0
 1 -> 00
 seed: 100
-NO
+YES - non strict
 ----------
 0 -> 0
 1 -> 00
 seed: 101
-NO
+YES - non strict
 ----------
 0 -> 0
 1 -> 00
 seed: 110
-NO
+YES - non strict
 ----------
 0 -> 0
 1 -> 00
 seed: 111
-NO
+YES - non strict
 ----------
 0 -> 0
 1 -> 01
@@ -426,7 +426,7 @@ YES
 0 -> 0
 1 -> 000
 seed: 1
-NO
+YES - non strict
 ----------
 0 -> 0
 1 -> 000
@@ -436,17 +436,17 @@ YES
 0 -> 0
 1 -> 000
 seed: 01
-NO
+YES - non strict
 ----------
 0 -> 0
 1 -> 000
 seed: 10
-NO
+YES - non strict
 ----------
 0 -> 0
 1 -> 000
 seed: 11
-NO
+YES - non strict
 ----------
 0 -> 0
 1 -> 000
@@ -456,37 +456,37 @@ YES
 0 -> 0
 1 -> 000
 seed: 001
-NO
+YES - non strict
 ----------
 0 -> 0
 1 -> 000
 seed: 010
-NO
+YES - non strict
 ----------
 0 -> 0
 1 -> 000
 seed: 011
-NO
+YES - non strict
 ----------
 0 -> 0
 1 -> 000
 seed: 100
-NO
+YES - non strict
 ----------
 0 -> 0
 1 -> 000
 seed: 101
-NO
+YES - non strict
 ----------
 0 -> 0
 1 -> 000
 seed: 110
-NO
+YES - non strict
 ----------
 0 -> 0
 1 -> 000
 seed: 111
-NO
+YES - non strict
 ----------
 0 -> 0
 1 -> 001
@@ -1051,7 +1051,7 @@ NO
 0 -> 1
 1 -> 1
 seed: 0
-NO
+YES - non strict
 ----------
 0 -> 1
 1 -> 1
@@ -1061,17 +1061,17 @@ YES
 0 -> 1
 1 -> 1
 seed: 00
-NO
+YES - non strict
 ----------
 0 -> 1
 1 -> 1
 seed: 01
-NO
+YES - non strict
 ----------
 0 -> 1
 1 -> 1
 seed: 10
-NO
+YES - non strict
 ----------
 0 -> 1
 1 -> 1
@@ -1081,37 +1081,37 @@ YES
 0 -> 1
 1 -> 1
 seed: 000
-NO
+YES - non strict
 ----------
 0 -> 1
 1 -> 1
 seed: 001
-NO
+YES - non strict
 ----------
 0 -> 1
 1 -> 1
 seed: 010
-NO
+YES - non strict
 ----------
 0 -> 1
 1 -> 1
 seed: 011
-NO
+YES - non strict
 ----------
 0 -> 1
 1 -> 1
 seed: 100
-NO
+YES - non strict
 ----------
 0 -> 1
 1 -> 1
 seed: 101
-NO
+YES - non strict
 ----------
 0 -> 1
 1 -> 1
 seed: 110
-NO
+YES - non strict
 ----------
 0 -> 1
 1 -> 1
@@ -1261,7 +1261,7 @@ NO
 0 -> 1
 1 -> 10
 seed: 0
-NO
+YES - non strict
 ----------
 0 -> 1
 1 -> 10
@@ -1311,7 +1311,7 @@ NO
 0 -> 1
 1 -> 10
 seed: 100
-NO
+YES - non strict
 ----------
 0 -> 1
 1 -> 10
@@ -1331,7 +1331,7 @@ NO
 0 -> 1
 1 -> 11
 seed: 0
-NO
+YES - non strict
 ----------
 0 -> 1
 1 -> 11
@@ -1341,17 +1341,17 @@ YES
 0 -> 1
 1 -> 11
 seed: 00
-NO
+YES - non strict
 ----------
 0 -> 1
 1 -> 11
 seed: 01
-NO
+YES - non strict
 ----------
 0 -> 1
 1 -> 11
 seed: 10
-NO
+YES - non strict
 ----------
 0 -> 1
 1 -> 11
@@ -1361,37 +1361,37 @@ YES
 0 -> 1
 1 -> 11
 seed: 000
-NO
+YES - non strict
 ----------
 0 -> 1
 1 -> 11
 seed: 001
-NO
+YES - non strict
 ----------
 0 -> 1
 1 -> 11
 seed: 010
-NO
+YES - non strict
 ----------
 0 -> 1
 1 -> 11
 seed: 011
-NO
+YES - non strict
 ----------
 0 -> 1
 1 -> 11
 seed: 100
-NO
+YES - non strict
 ----------
 0 -> 1
 1 -> 11
 seed: 101
-NO
+YES - non strict
 ----------
 0 -> 1
 1 -> 11
 seed: 110
-NO
+YES - non strict
 ----------
 0 -> 1
 1 -> 11
@@ -1681,7 +1681,7 @@ NO
 0 -> 1
 1 -> 100
 seed: 0
-NO
+YES - non strict
 ----------
 0 -> 1
 1 -> 100
@@ -1751,7 +1751,7 @@ NO
 0 -> 1
 1 -> 101
 seed: 0
-NO
+YES - non strict
 ----------
 0 -> 1
 1 -> 101
@@ -1801,7 +1801,7 @@ NO
 0 -> 1
 1 -> 101
 seed: 100
-NO
+YES - non strict
 ----------
 0 -> 1
 1 -> 101
@@ -1821,7 +1821,7 @@ NO
 0 -> 1
 1 -> 110
 seed: 0
-NO
+YES - non strict
 ----------
 0 -> 1
 1 -> 110
@@ -1831,7 +1831,7 @@ YES
 0 -> 1
 1 -> 110
 seed: 00
-NO
+YES - non strict
 ----------
 0 -> 1
 1 -> 110
@@ -1841,7 +1841,7 @@ NO
 0 -> 1
 1 -> 110
 seed: 10
-NO
+YES - non strict
 ----------
 0 -> 1
 1 -> 110
@@ -1871,7 +1871,7 @@ NO
 0 -> 1
 1 -> 110
 seed: 100
-NO
+YES - non strict
 ----------
 0 -> 1
 1 -> 110
@@ -1891,7 +1891,7 @@ NO
 0 -> 1
 1 -> 111
 seed: 0
-NO
+YES - non strict
 ----------
 0 -> 1
 1 -> 111
@@ -1901,17 +1901,17 @@ YES
 0 -> 1
 1 -> 111
 seed: 00
-NO
+YES - non strict
 ----------
 0 -> 1
 1 -> 111
 seed: 01
-NO
+YES - non strict
 ----------
 0 -> 1
 1 -> 111
 seed: 10
-NO
+YES - non strict
 ----------
 0 -> 1
 1 -> 111
@@ -1921,37 +1921,37 @@ YES
 0 -> 1
 1 -> 111
 seed: 000
-NO
+YES - non strict
 ----------
 0 -> 1
 1 -> 111
 seed: 001
-NO
+YES - non strict
 ----------
 0 -> 1
 1 -> 111
 seed: 010
-NO
+YES - non strict
 ----------
 0 -> 1
 1 -> 111
 seed: 011
-NO
+YES - non strict
 ----------
 0 -> 1
 1 -> 111
 seed: 100
-NO
+YES - non strict
 ----------
 0 -> 1
 1 -> 111
 seed: 101
-NO
+YES - non strict
 ----------
 0 -> 1
 1 -> 111
 seed: 110
-NO
+YES - non strict
 ----------
 0 -> 1
 1 -> 111
@@ -1966,7 +1966,7 @@ YES
 0 -> 00
 1 -> 0
 seed: 1
-NO
+YES - non strict
 ----------
 0 -> 00
 1 -> 0
@@ -1976,17 +1976,17 @@ YES
 0 -> 00
 1 -> 0
 seed: 01
-NO
+YES - non strict
 ----------
 0 -> 00
 1 -> 0
 seed: 10
-NO
+YES - non strict
 ----------
 0 -> 00
 1 -> 0
 seed: 11
-NO
+YES - non strict
 ----------
 0 -> 00
 1 -> 0
@@ -1996,37 +1996,37 @@ YES
 0 -> 00
 1 -> 0
 seed: 001
-NO
+YES - non strict
 ----------
 0 -> 00
 1 -> 0
 seed: 010
-NO
+YES - non strict
 ----------
 0 -> 00
 1 -> 0
 seed: 011
-NO
+YES - non strict
 ----------
 0 -> 00
 1 -> 0
 seed: 100
-NO
+YES - non strict
 ----------
 0 -> 00
 1 -> 0
 seed: 101
-NO
+YES - non strict
 ----------
 0 -> 00
 1 -> 0
 seed: 110
-NO
+YES - non strict
 ----------
 0 -> 00
 1 -> 0
 seed: 111
-NO
+YES - non strict
 ----------
 0 -> 00
 1 -> 1
@@ -2106,7 +2106,7 @@ YES
 0 -> 00
 1 -> 00
 seed: 1
-NO
+YES - non strict
 ----------
 0 -> 00
 1 -> 00
@@ -2116,17 +2116,17 @@ YES
 0 -> 00
 1 -> 00
 seed: 01
-NO
+YES - non strict
 ----------
 0 -> 00
 1 -> 00
 seed: 10
-NO
+YES - non strict
 ----------
 0 -> 00
 1 -> 00
 seed: 11
-NO
+YES - non strict
 ----------
 0 -> 00
 1 -> 00
@@ -2136,37 +2136,37 @@ YES
 0 -> 00
 1 -> 00
 seed: 001
-NO
+YES - non strict
 ----------
 0 -> 00
 1 -> 00
 seed: 010
-NO
+YES - non strict
 ----------
 0 -> 00
 1 -> 00
 seed: 011
-NO
+YES - non strict
 ----------
 0 -> 00
 1 -> 00
 seed: 100
-NO
+YES - non strict
 ----------
 0 -> 00
 1 -> 00
 seed: 101
-NO
+YES - non strict
 ----------
 0 -> 00
 1 -> 00
 seed: 110
-NO
+YES - non strict
 ----------
 0 -> 00
 1 -> 00
 seed: 111
-NO
+YES - non strict
 ----------
 0 -> 00
 1 -> 01
@@ -2386,7 +2386,7 @@ YES
 0 -> 00
 1 -> 000
 seed: 1
-NO
+YES - non strict
 ----------
 0 -> 00
 1 -> 000
@@ -2396,17 +2396,17 @@ YES
 0 -> 00
 1 -> 000
 seed: 01
-NO
+YES - non strict
 ----------
 0 -> 00
 1 -> 000
 seed: 10
-NO
+YES - non strict
 ----------
 0 -> 00
 1 -> 000
 seed: 11
-NO
+YES - non strict
 ----------
 0 -> 00
 1 -> 000
@@ -2416,37 +2416,37 @@ YES
 0 -> 00
 1 -> 000
 seed: 001
-NO
+YES - non strict
 ----------
 0 -> 00
 1 -> 000
 seed: 010
-NO
+YES - non strict
 ----------
 0 -> 00
 1 -> 000
 seed: 011
-NO
+YES - non strict
 ----------
 0 -> 00
 1 -> 000
 seed: 100
-NO
+YES - non strict
 ----------
 0 -> 00
 1 -> 000
 seed: 101
-NO
+YES - non strict
 ----------
 0 -> 00
 1 -> 000
 seed: 110
-NO
+YES - non strict
 ----------
 0 -> 00
 1 -> 000
 seed: 111
-NO
+YES - non strict
 ----------
 0 -> 00
 1 -> 001
@@ -2946,7 +2946,7 @@ YES
 0 -> 01
 1 -> 0
 seed: 1
-NO
+YES - non strict
 ----------
 0 -> 01
 1 -> 0
@@ -2986,7 +2986,7 @@ YES
 0 -> 01
 1 -> 0
 seed: 011
-NO
+YES - non strict
 ----------
 0 -> 01
 1 -> 0
@@ -3156,12 +3156,12 @@ YES
 0 -> 01
 1 -> 01
 seed: 1
-NO
+YES - non strict
 ----------
 0 -> 01
 1 -> 01
 seed: 00
-NO
+YES - non strict
 ----------
 0 -> 01
 1 -> 01
@@ -3171,22 +3171,22 @@ YES
 0 -> 01
 1 -> 01
 seed: 10
-NO
+YES - non strict
 ----------
 0 -> 01
 1 -> 01
 seed: 11
-NO
+YES - non strict
 ----------
 0 -> 01
 1 -> 01
 seed: 000
-NO
+YES - non strict
 ----------
 0 -> 01
 1 -> 01
 seed: 001
-NO
+YES - non strict
 ----------
 0 -> 01
 1 -> 01
@@ -3196,27 +3196,27 @@ YES
 0 -> 01
 1 -> 01
 seed: 011
-NO
+YES - non strict
 ----------
 0 -> 01
 1 -> 01
 seed: 100
-NO
+YES - non strict
 ----------
 0 -> 01
 1 -> 01
 seed: 101
-NO
+YES - non strict
 ----------
 0 -> 01
 1 -> 01
 seed: 110
-NO
+YES - non strict
 ----------
 0 -> 01
 1 -> 01
 seed: 111
-NO
+YES - non strict
 ----------
 0 -> 01
 1 -> 10
@@ -3506,12 +3506,12 @@ YES
 0 -> 01
 1 -> 010
 seed: 1
-NO
+YES - non strict
 ----------
 0 -> 01
 1 -> 010
 seed: 00
-NO
+YES - non strict
 ----------
 0 -> 01
 1 -> 010
@@ -3546,7 +3546,7 @@ YES
 0 -> 01
 1 -> 010
 seed: 011
-NO
+YES - non strict
 ----------
 0 -> 01
 1 -> 010
@@ -3581,7 +3581,7 @@ NO
 0 -> 01
 1 -> 011
 seed: 00
-NO
+YES - non strict
 ----------
 0 -> 01
 1 -> 011
@@ -4201,7 +4201,7 @@ NO
 0 -> 10
 1 -> 10
 seed: 0
-NO
+YES - non strict
 ----------
 0 -> 10
 1 -> 10
@@ -4211,12 +4211,12 @@ YES
 0 -> 10
 1 -> 10
 seed: 00
-NO
+YES - non strict
 ----------
 0 -> 10
 1 -> 10
 seed: 01
-NO
+YES - non strict
 ----------
 0 -> 10
 1 -> 10
@@ -4226,32 +4226,32 @@ YES
 0 -> 10
 1 -> 10
 seed: 11
-NO
+YES - non strict
 ----------
 0 -> 10
 1 -> 10
 seed: 000
-NO
+YES - non strict
 ----------
 0 -> 10
 1 -> 10
 seed: 001
-NO
+YES - non strict
 ----------
 0 -> 10
 1 -> 10
 seed: 010
-NO
+YES - non strict
 ----------
 0 -> 10
 1 -> 10
 seed: 011
-NO
+YES - non strict
 ----------
 0 -> 10
 1 -> 10
 seed: 100
-NO
+YES - non strict
 ----------
 0 -> 10
 1 -> 10
@@ -4261,12 +4261,12 @@ YES
 0 -> 10
 1 -> 10
 seed: 110
-NO
+YES - non strict
 ----------
 0 -> 10
 1 -> 10
 seed: 111
-NO
+YES - non strict
 ----------
 0 -> 10
 1 -> 11
@@ -4621,7 +4621,7 @@ NO
 0 -> 10
 1 -> 100
 seed: 0
-NO
+YES - non strict
 ----------
 0 -> 10
 1 -> 100
@@ -4691,7 +4691,7 @@ NO
 0 -> 10
 1 -> 101
 seed: 0
-NO
+YES - non strict
 ----------
 0 -> 10
 1 -> 101
@@ -4716,7 +4716,7 @@ YES
 0 -> 10
 1 -> 101
 seed: 11
-NO
+YES - non strict
 ----------
 0 -> 10
 1 -> 101
@@ -4741,7 +4741,7 @@ NO
 0 -> 10
 1 -> 101
 seed: 100
-NO
+YES - non strict
 ----------
 0 -> 10
 1 -> 101
@@ -4971,7 +4971,7 @@ NO
 0 -> 11
 1 -> 1
 seed: 0
-NO
+YES - non strict
 ----------
 0 -> 11
 1 -> 1
@@ -4981,17 +4981,17 @@ YES
 0 -> 11
 1 -> 1
 seed: 00
-NO
+YES - non strict
 ----------
 0 -> 11
 1 -> 1
 seed: 01
-NO
+YES - non strict
 ----------
 0 -> 11
 1 -> 1
 seed: 10
-NO
+YES - non strict
 ----------
 0 -> 11
 1 -> 1
@@ -5001,37 +5001,37 @@ YES
 0 -> 11
 1 -> 1
 seed: 000
-NO
+YES - non strict
 ----------
 0 -> 11
 1 -> 1
 seed: 001
-NO
+YES - non strict
 ----------
 0 -> 11
 1 -> 1
 seed: 010
-NO
+YES - non strict
 ----------
 0 -> 11
 1 -> 1
 seed: 011
-NO
+YES - non strict
 ----------
 0 -> 11
 1 -> 1
 seed: 100
-NO
+YES - non strict
 ----------
 0 -> 11
 1 -> 1
 seed: 101
-NO
+YES - non strict
 ----------
 0 -> 11
 1 -> 1
 seed: 110
-NO
+YES - non strict
 ----------
 0 -> 11
 1 -> 1
@@ -5251,7 +5251,7 @@ NO
 0 -> 11
 1 -> 11
 seed: 0
-NO
+YES - non strict
 ----------
 0 -> 11
 1 -> 11
@@ -5261,17 +5261,17 @@ YES
 0 -> 11
 1 -> 11
 seed: 00
-NO
+YES - non strict
 ----------
 0 -> 11
 1 -> 11
 seed: 01
-NO
+YES - non strict
 ----------
 0 -> 11
 1 -> 11
 seed: 10
-NO
+YES - non strict
 ----------
 0 -> 11
 1 -> 11
@@ -5281,37 +5281,37 @@ YES
 0 -> 11
 1 -> 11
 seed: 000
-NO
+YES - non strict
 ----------
 0 -> 11
 1 -> 11
 seed: 001
-NO
+YES - non strict
 ----------
 0 -> 11
 1 -> 11
 seed: 010
-NO
+YES - non strict
 ----------
 0 -> 11
 1 -> 11
 seed: 011
-NO
+YES - non strict
 ----------
 0 -> 11
 1 -> 11
 seed: 100
-NO
+YES - non strict
 ----------
 0 -> 11
 1 -> 11
 seed: 101
-NO
+YES - non strict
 ----------
 0 -> 11
 1 -> 11
 seed: 110
-NO
+YES - non strict
 ----------
 0 -> 11
 1 -> 11
@@ -5741,7 +5741,7 @@ NO
 0 -> 11
 1 -> 110
 seed: 0
-NO
+YES - non strict
 ----------
 0 -> 11
 1 -> 110
@@ -5761,7 +5761,7 @@ NO
 0 -> 11
 1 -> 110
 seed: 10
-NO
+YES - non strict
 ----------
 0 -> 11
 1 -> 110
@@ -5811,7 +5811,7 @@ NO
 0 -> 11
 1 -> 111
 seed: 0
-NO
+YES - non strict
 ----------
 0 -> 11
 1 -> 111
@@ -5821,17 +5821,17 @@ YES
 0 -> 11
 1 -> 111
 seed: 00
-NO
+YES - non strict
 ----------
 0 -> 11
 1 -> 111
 seed: 01
-NO
+YES - non strict
 ----------
 0 -> 11
 1 -> 111
 seed: 10
-NO
+YES - non strict
 ----------
 0 -> 11
 1 -> 111
@@ -5841,37 +5841,37 @@ YES
 0 -> 11
 1 -> 111
 seed: 000
-NO
+YES - non strict
 ----------
 0 -> 11
 1 -> 111
 seed: 001
-NO
+YES - non strict
 ----------
 0 -> 11
 1 -> 111
 seed: 010
-NO
+YES - non strict
 ----------
 0 -> 11
 1 -> 111
 seed: 011
-NO
+YES - non strict
 ----------
 0 -> 11
 1 -> 111
 seed: 100
-NO
+YES - non strict
 ----------
 0 -> 11
 1 -> 111
 seed: 101
-NO
+YES - non strict
 ----------
 0 -> 11
 1 -> 111
 seed: 110
-NO
+YES - non strict
 ----------
 0 -> 11
 1 -> 111
@@ -5886,7 +5886,7 @@ YES
 0 -> 000
 1 -> 0
 seed: 1
-NO
+YES - non strict
 ----------
 0 -> 000
 1 -> 0
@@ -5896,17 +5896,17 @@ YES
 0 -> 000
 1 -> 0
 seed: 01
-NO
+YES - non strict
 ----------
 0 -> 000
 1 -> 0
 seed: 10
-NO
+YES - non strict
 ----------
 0 -> 000
 1 -> 0
 seed: 11
-NO
+YES - non strict
 ----------
 0 -> 000
 1 -> 0
@@ -5916,37 +5916,37 @@ YES
 0 -> 000
 1 -> 0
 seed: 001
-NO
+YES - non strict
 ----------
 0 -> 000
 1 -> 0
 seed: 010
-NO
+YES - non strict
 ----------
 0 -> 000
 1 -> 0
 seed: 011
-NO
+YES - non strict
 ----------
 0 -> 000
 1 -> 0
 seed: 100
-NO
+YES - non strict
 ----------
 0 -> 000
 1 -> 0
 seed: 101
-NO
+YES - non strict
 ----------
 0 -> 000
 1 -> 0
 seed: 110
-NO
+YES - non strict
 ----------
 0 -> 000
 1 -> 0
 seed: 111
-NO
+YES - non strict
 ----------
 0 -> 000
 1 -> 1
@@ -6026,7 +6026,7 @@ YES
 0 -> 000
 1 -> 00
 seed: 1
-NO
+YES - non strict
 ----------
 0 -> 000
 1 -> 00
@@ -6036,17 +6036,17 @@ YES
 0 -> 000
 1 -> 00
 seed: 01
-NO
+YES - non strict
 ----------
 0 -> 000
 1 -> 00
 seed: 10
-NO
+YES - non strict
 ----------
 0 -> 000
 1 -> 00
 seed: 11
-NO
+YES - non strict
 ----------
 0 -> 000
 1 -> 00
@@ -6056,37 +6056,37 @@ YES
 0 -> 000
 1 -> 00
 seed: 001
-NO
+YES - non strict
 ----------
 0 -> 000
 1 -> 00
 seed: 010
-NO
+YES - non strict
 ----------
 0 -> 000
 1 -> 00
 seed: 011
-NO
+YES - non strict
 ----------
 0 -> 000
 1 -> 00
 seed: 100
-NO
+YES - non strict
 ----------
 0 -> 000
 1 -> 00
 seed: 101
-NO
+YES - non strict
 ----------
 0 -> 000
 1 -> 00
 seed: 110
-NO
+YES - non strict
 ----------
 0 -> 000
 1 -> 00
 seed: 111
-NO
+YES - non strict
 ----------
 0 -> 000
 1 -> 01
@@ -6306,7 +6306,7 @@ YES
 0 -> 000
 1 -> 000
 seed: 1
-NO
+YES - non strict
 ----------
 0 -> 000
 1 -> 000
@@ -6316,17 +6316,17 @@ YES
 0 -> 000
 1 -> 000
 seed: 01
-NO
+YES - non strict
 ----------
 0 -> 000
 1 -> 000
 seed: 10
-NO
+YES - non strict
 ----------
 0 -> 000
 1 -> 000
 seed: 11
-NO
+YES - non strict
 ----------
 0 -> 000
 1 -> 000
@@ -6336,37 +6336,37 @@ YES
 0 -> 000
 1 -> 000
 seed: 001
-NO
+YES - non strict
 ----------
 0 -> 000
 1 -> 000
 seed: 010
-NO
+YES - non strict
 ----------
 0 -> 000
 1 -> 000
 seed: 011
-NO
+YES - non strict
 ----------
 0 -> 000
 1 -> 000
 seed: 100
-NO
+YES - non strict
 ----------
 0 -> 000
 1 -> 000
 seed: 101
-NO
+YES - non strict
 ----------
 0 -> 000
 1 -> 000
 seed: 110
-NO
+YES - non strict
 ----------
 0 -> 000
 1 -> 000
 seed: 111
-NO
+YES - non strict
 ----------
 0 -> 000
 1 -> 001
@@ -6866,7 +6866,7 @@ YES
 0 -> 001
 1 -> 0
 seed: 1
-NO
+YES - non strict
 ----------
 0 -> 001
 1 -> 0
@@ -6876,7 +6876,7 @@ YES
 0 -> 001
 1 -> 0
 seed: 01
-NO
+YES - non strict
 ----------
 0 -> 001
 1 -> 0
@@ -6886,7 +6886,7 @@ NO
 0 -> 001
 1 -> 0
 seed: 11
-NO
+YES - non strict
 ----------
 0 -> 001
 1 -> 0
@@ -6906,7 +6906,7 @@ NO
 0 -> 001
 1 -> 0
 seed: 011
-NO
+YES - non strict
 ----------
 0 -> 001
 1 -> 0
@@ -7006,7 +7006,7 @@ YES
 0 -> 001
 1 -> 00
 seed: 1
-NO
+YES - non strict
 ----------
 0 -> 001
 1 -> 00
@@ -7016,7 +7016,7 @@ YES
 0 -> 001
 1 -> 00
 seed: 01
-NO
+YES - non strict
 ----------
 0 -> 001
 1 -> 00
@@ -7356,7 +7356,7 @@ YES
 0 -> 001
 1 -> 001
 seed: 1
-NO
+YES - non strict
 ----------
 0 -> 001
 1 -> 001
@@ -7366,22 +7366,22 @@ YES
 0 -> 001
 1 -> 001
 seed: 01
-NO
+YES - non strict
 ----------
 0 -> 001
 1 -> 001
 seed: 10
-NO
+YES - non strict
 ----------
 0 -> 001
 1 -> 001
 seed: 11
-NO
+YES - non strict
 ----------
 0 -> 001
 1 -> 001
 seed: 000
-NO
+YES - non strict
 ----------
 0 -> 001
 1 -> 001
@@ -7391,32 +7391,32 @@ YES
 0 -> 001
 1 -> 001
 seed: 010
-NO
+YES - non strict
 ----------
 0 -> 001
 1 -> 001
 seed: 011
-NO
+YES - non strict
 ----------
 0 -> 001
 1 -> 001
 seed: 100
-NO
+YES - non strict
 ----------
 0 -> 001
 1 -> 001
 seed: 101
-NO
+YES - non strict
 ----------
 0 -> 001
 1 -> 001
 seed: 110
-NO
+YES - non strict
 ----------
 0 -> 001
 1 -> 001
 seed: 111
-NO
+YES - non strict
 ----------
 0 -> 001
 1 -> 010
@@ -7846,7 +7846,7 @@ YES
 0 -> 010
 1 -> 0
 seed: 1
-NO
+YES - non strict
 ----------
 0 -> 010
 1 -> 0
@@ -7886,7 +7886,7 @@ YES
 0 -> 010
 1 -> 0
 seed: 011
-NO
+YES - non strict
 ----------
 0 -> 010
 1 -> 0
@@ -8056,12 +8056,12 @@ YES
 0 -> 010
 1 -> 01
 seed: 1
-NO
+YES - non strict
 ----------
 0 -> 010
 1 -> 01
 seed: 00
-NO
+YES - non strict
 ----------
 0 -> 010
 1 -> 01
@@ -8096,7 +8096,7 @@ YES
 0 -> 010
 1 -> 01
 seed: 011
-NO
+YES - non strict
 ----------
 0 -> 010
 1 -> 01
@@ -8406,12 +8406,12 @@ YES
 0 -> 010
 1 -> 010
 seed: 1
-NO
+YES - non strict
 ----------
 0 -> 010
 1 -> 010
 seed: 00
-NO
+YES - non strict
 ----------
 0 -> 010
 1 -> 010
@@ -8421,22 +8421,22 @@ YES
 0 -> 010
 1 -> 010
 seed: 10
-NO
+YES - non strict
 ----------
 0 -> 010
 1 -> 010
 seed: 11
-NO
+YES - non strict
 ----------
 0 -> 010
 1 -> 010
 seed: 000
-NO
+YES - non strict
 ----------
 0 -> 010
 1 -> 010
 seed: 001
-NO
+YES - non strict
 ----------
 0 -> 010
 1 -> 010
@@ -8446,27 +8446,27 @@ YES
 0 -> 010
 1 -> 010
 seed: 011
-NO
+YES - non strict
 ----------
 0 -> 010
 1 -> 010
 seed: 100
-NO
+YES - non strict
 ----------
 0 -> 010
 1 -> 010
 seed: 101
-NO
+YES - non strict
 ----------
 0 -> 010
 1 -> 010
 seed: 110
-NO
+YES - non strict
 ----------
 0 -> 010
 1 -> 010
 seed: 111
-NO
+YES - non strict
 ----------
 0 -> 010
 1 -> 011
@@ -8826,7 +8826,7 @@ YES
 0 -> 011
 1 -> 0
 seed: 1
-NO
+YES - non strict
 ----------
 0 -> 011
 1 -> 0
@@ -9036,7 +9036,7 @@ YES
 0 -> 011
 1 -> 01
 seed: 1
-NO
+YES - non strict
 ----------
 0 -> 011
 1 -> 01
@@ -9456,12 +9456,12 @@ YES
 0 -> 011
 1 -> 011
 seed: 1
-NO
+YES - non strict
 ----------
 0 -> 011
 1 -> 011
 seed: 00
-NO
+YES - non strict
 ----------
 0 -> 011
 1 -> 011
@@ -9471,27 +9471,27 @@ YES
 0 -> 011
 1 -> 011
 seed: 10
-NO
+YES - non strict
 ----------
 0 -> 011
 1 -> 011
 seed: 11
-NO
+YES - non strict
 ----------
 0 -> 011
 1 -> 011
 seed: 000
-NO
+YES - non strict
 ----------
 0 -> 011
 1 -> 011
 seed: 001
-NO
+YES - non strict
 ----------
 0 -> 011
 1 -> 011
 seed: 010
-NO
+YES - non strict
 ----------
 0 -> 011
 1 -> 011
@@ -9501,22 +9501,22 @@ YES
 0 -> 011
 1 -> 011
 seed: 100
-NO
+YES - non strict
 ----------
 0 -> 011
 1 -> 011
 seed: 101
-NO
+YES - non strict
 ----------
 0 -> 011
 1 -> 011
 seed: 110
-NO
+YES - non strict
 ----------
 0 -> 011
 1 -> 011
 seed: 111
-NO
+YES - non strict
 ----------
 0 -> 011
 1 -> 100
@@ -10106,7 +10106,7 @@ YES
 0 -> 100
 1 -> 10
 seed: 11
-NO
+YES - non strict
 ----------
 0 -> 100
 1 -> 10
@@ -10501,7 +10501,7 @@ NO
 0 -> 100
 1 -> 100
 seed: 0
-NO
+YES - non strict
 ----------
 0 -> 100
 1 -> 100
@@ -10511,12 +10511,12 @@ YES
 0 -> 100
 1 -> 100
 seed: 00
-NO
+YES - non strict
 ----------
 0 -> 100
 1 -> 100
 seed: 01
-NO
+YES - non strict
 ----------
 0 -> 100
 1 -> 100
@@ -10526,27 +10526,27 @@ YES
 0 -> 100
 1 -> 100
 seed: 11
-NO
+YES - non strict
 ----------
 0 -> 100
 1 -> 100
 seed: 000
-NO
+YES - non strict
 ----------
 0 -> 100
 1 -> 100
 seed: 001
-NO
+YES - non strict
 ----------
 0 -> 100
 1 -> 100
 seed: 010
-NO
+YES - non strict
 ----------
 0 -> 100
 1 -> 100
 seed: 011
-NO
+YES - non strict
 ----------
 0 -> 100
 1 -> 100
@@ -10556,17 +10556,17 @@ YES
 0 -> 100
 1 -> 100
 seed: 101
-NO
+YES - non strict
 ----------
 0 -> 100
 1 -> 100
 seed: 110
-NO
+YES - non strict
 ----------
 0 -> 100
 1 -> 100
 seed: 111
-NO
+YES - non strict
 ----------
 0 -> 100
 1 -> 101
@@ -11061,7 +11061,7 @@ NO
 0 -> 101
 1 -> 10
 seed: 0
-NO
+YES - non strict
 ----------
 0 -> 101
 1 -> 10
@@ -11086,7 +11086,7 @@ YES
 0 -> 101
 1 -> 10
 seed: 11
-NO
+YES - non strict
 ----------
 0 -> 101
 1 -> 10
@@ -11111,7 +11111,7 @@ NO
 0 -> 101
 1 -> 10
 seed: 100
-NO
+YES - non strict
 ----------
 0 -> 101
 1 -> 10
@@ -11551,7 +11551,7 @@ NO
 0 -> 101
 1 -> 101
 seed: 0
-NO
+YES - non strict
 ----------
 0 -> 101
 1 -> 101
@@ -11561,12 +11561,12 @@ YES
 0 -> 101
 1 -> 101
 seed: 00
-NO
+YES - non strict
 ----------
 0 -> 101
 1 -> 101
 seed: 01
-NO
+YES - non strict
 ----------
 0 -> 101
 1 -> 101
@@ -11576,32 +11576,32 @@ YES
 0 -> 101
 1 -> 101
 seed: 11
-NO
+YES - non strict
 ----------
 0 -> 101
 1 -> 101
 seed: 000
-NO
+YES - non strict
 ----------
 0 -> 101
 1 -> 101
 seed: 001
-NO
+YES - non strict
 ----------
 0 -> 101
 1 -> 101
 seed: 010
-NO
+YES - non strict
 ----------
 0 -> 101
 1 -> 101
 seed: 011
-NO
+YES - non strict
 ----------
 0 -> 101
 1 -> 101
 seed: 100
-NO
+YES - non strict
 ----------
 0 -> 101
 1 -> 101
@@ -11611,12 +11611,12 @@ YES
 0 -> 101
 1 -> 101
 seed: 110
-NO
+YES - non strict
 ----------
 0 -> 101
 1 -> 101
 seed: 111
-NO
+YES - non strict
 ----------
 0 -> 101
 1 -> 110
@@ -12601,7 +12601,7 @@ NO
 0 -> 110
 1 -> 110
 seed: 0
-NO
+YES - non strict
 ----------
 0 -> 110
 1 -> 110
@@ -12611,17 +12611,17 @@ YES
 0 -> 110
 1 -> 110
 seed: 00
-NO
+YES - non strict
 ----------
 0 -> 110
 1 -> 110
 seed: 01
-NO
+YES - non strict
 ----------
 0 -> 110
 1 -> 110
 seed: 10
-NO
+YES - non strict
 ----------
 0 -> 110
 1 -> 110
@@ -12631,32 +12631,32 @@ YES
 0 -> 110
 1 -> 110
 seed: 000
-NO
+YES - non strict
 ----------
 0 -> 110
 1 -> 110
 seed: 001
-NO
+YES - non strict
 ----------
 0 -> 110
 1 -> 110
 seed: 010
-NO
+YES - non strict
 ----------
 0 -> 110
 1 -> 110
 seed: 011
-NO
+YES - non strict
 ----------
 0 -> 110
 1 -> 110
 seed: 100
-NO
+YES - non strict
 ----------
 0 -> 110
 1 -> 110
 seed: 101
-NO
+YES - non strict
 ----------
 0 -> 110
 1 -> 110
@@ -12666,7 +12666,7 @@ YES
 0 -> 110
 1 -> 110
 seed: 111
-NO
+YES - non strict
 ----------
 0 -> 110
 1 -> 111
@@ -12811,7 +12811,7 @@ NO
 0 -> 111
 1 -> 1
 seed: 0
-NO
+YES - non strict
 ----------
 0 -> 111
 1 -> 1
@@ -12821,17 +12821,17 @@ YES
 0 -> 111
 1 -> 1
 seed: 00
-NO
+YES - non strict
 ----------
 0 -> 111
 1 -> 1
 seed: 01
-NO
+YES - non strict
 ----------
 0 -> 111
 1 -> 1
 seed: 10
-NO
+YES - non strict
 ----------
 0 -> 111
 1 -> 1
@@ -12841,37 +12841,37 @@ YES
 0 -> 111
 1 -> 1
 seed: 000
-NO
+YES - non strict
 ----------
 0 -> 111
 1 -> 1
 seed: 001
-NO
+YES - non strict
 ----------
 0 -> 111
 1 -> 1
 seed: 010
-NO
+YES - non strict
 ----------
 0 -> 111
 1 -> 1
 seed: 011
-NO
+YES - non strict
 ----------
 0 -> 111
 1 -> 1
 seed: 100
-NO
+YES - non strict
 ----------
 0 -> 111
 1 -> 1
 seed: 101
-NO
+YES - non strict
 ----------
 0 -> 111
 1 -> 1
 seed: 110
-NO
+YES - non strict
 ----------
 0 -> 111
 1 -> 1
@@ -13091,7 +13091,7 @@ NO
 0 -> 111
 1 -> 11
 seed: 0
-NO
+YES - non strict
 ----------
 0 -> 111
 1 -> 11
@@ -13101,17 +13101,17 @@ YES
 0 -> 111
 1 -> 11
 seed: 00
-NO
+YES - non strict
 ----------
 0 -> 111
 1 -> 11
 seed: 01
-NO
+YES - non strict
 ----------
 0 -> 111
 1 -> 11
 seed: 10
-NO
+YES - non strict
 ----------
 0 -> 111
 1 -> 11
@@ -13121,37 +13121,37 @@ YES
 0 -> 111
 1 -> 11
 seed: 000
-NO
+YES - non strict
 ----------
 0 -> 111
 1 -> 11
 seed: 001
-NO
+YES - non strict
 ----------
 0 -> 111
 1 -> 11
 seed: 010
-NO
+YES - non strict
 ----------
 0 -> 111
 1 -> 11
 seed: 011
-NO
+YES - non strict
 ----------
 0 -> 111
 1 -> 11
 seed: 100
-NO
+YES - non strict
 ----------
 0 -> 111
 1 -> 11
 seed: 101
-NO
+YES - non strict
 ----------
 0 -> 111
 1 -> 11
 seed: 110
-NO
+YES - non strict
 ----------
 0 -> 111
 1 -> 11
@@ -13651,7 +13651,7 @@ NO
 0 -> 111
 1 -> 111
 seed: 0
-NO
+YES - non strict
 ----------
 0 -> 111
 1 -> 111
@@ -13661,17 +13661,17 @@ YES
 0 -> 111
 1 -> 111
 seed: 00
-NO
+YES - non strict
 ----------
 0 -> 111
 1 -> 111
 seed: 01
-NO
+YES - non strict
 ----------
 0 -> 111
 1 -> 111
 seed: 10
-NO
+YES - non strict
 ----------
 0 -> 111
 1 -> 111
@@ -13681,41 +13681,40 @@ YES
 0 -> 111
 1 -> 111
 seed: 000
-NO
+YES - non strict
 ----------
 0 -> 111
 1 -> 111
 seed: 001
-NO
+YES - non strict
 ----------
 0 -> 111
 1 -> 111
 seed: 010
-NO
+YES - non strict
 ----------
 0 -> 111
 1 -> 111
 seed: 011
-NO
+YES - non strict
 ----------
 0 -> 111
 1 -> 111
 seed: 100
-NO
+YES - non strict
 ----------
 0 -> 111
 1 -> 111
 seed: 101
-NO
+YES - non strict
 ----------
 0 -> 111
 1 -> 111
 seed: 110
-NO
+YES - non strict
 ----------
 0 -> 111
 1 -> 111
 seed: 111
 YES
 ----------
-0587342061:Project2 jasonmillen$ 
