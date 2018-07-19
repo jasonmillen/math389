@@ -127,7 +127,6 @@ bool hasSisterCubes(vector<int> & a, vector<int> & b) {
 void printSisterCubes(long long num, vector< vector<int> > & sisterCubes) {
 
 	cout << "SISTER CUBES:\n";
-	cout << num << endl;
 
 	for(size_t i = 0; i < sisterCubes.size(); i++) {
 		printCubes(sisterCubes[i]);
@@ -150,10 +149,6 @@ void findSisterCubes(unordered_map<long long, vector<int> > & sum_of_cubes) {
 				}
 
 			}
-
-			// cout << endl << "current soluton:" << endl;
-			// printCubes(it->second);
-			// cout << endl;
 
 			if(sisterCubes.size() > 1) {
 				printSisterCubes(it-> first, sisterCubes);
@@ -182,8 +177,10 @@ unordered_map<long long, vector<int> > findSumOfCubes() {
 
 	unordered_map<long long, vector<int> > sum_of_cubes;
 
-	for(int i = 0; i < 5000; i++) {
-		for(int j = i; j < 5000; j++) {
+	unordered_map<long long, vector<int> > solution;
+
+	for(int i = 0; i < 1000; i++) {
+		for(int j = i; j < 1000; j++) {
 			
 			long long cubedSum = cube(i) + cube(j);
 			
@@ -202,6 +199,8 @@ unordered_map<long long, vector<int> > findSumOfCubes() {
 
 				if(vectorHasRelativePrimes(sum_of_cubes[cubedSum])) {
 
+					solution[cubedSum] = sum_of_cubes[cubedSum];
+
 					// if(!passesSukiTest(sum_of_cubes[cubedSum])) {
 
 					// 	cout << "FOUND SOLUTION with " << sum_of_cubes[cubedSum].size()/2 << endl;
@@ -211,14 +210,14 @@ unordered_map<long long, vector<int> > findSumOfCubes() {
 
 					// }
 
-					if(vectorHasOne(sum_of_cubes[cubedSum])) {
+					// if(vectorHasOne(sum_of_cubes[cubedSum])) {
 
-						cout << "FOUND SOLUTION with " << sum_of_cubes[cubedSum].size()/2 << endl;
-						cout << cubedSum << endl;
-						printCubes(sum_of_cubes[cubedSum]);
-						cout << "--------" << endl;
+					// 	cout << "FOUND SOLUTION with " << sum_of_cubes[cubedSum].size()/2 << endl;
+					// 	cout << cubedSum << endl;
+					// 	printCubes(sum_of_cubes[cubedSum]);
+					// 	cout << "--------" << endl;
 
-					}
+					// }
 
 					// cout << "FOUND SOLUTION with " << sum_of_cubes[cubedSum].size()/2 << endl;
 					// cout << cubedSum << endl;
@@ -232,17 +231,14 @@ unordered_map<long long, vector<int> > findSumOfCubes() {
 		}
 	}
 
-	return sum_of_cubes;
+	return solution;
 }
 
 
 int main() {
 
-	findSumOfCubes();
+	unordered_map<long long, vector<int> > sum_of_cubes = findSumOfCubes();
 
-
-	//unordered_map<long long, vector<int> > sum_of_cubes = findSumOfCubes();
-
-	//findSisterCubes(sum_of_cubes);
+	findSisterCubes(sum_of_cubes);
 
 }

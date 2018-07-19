@@ -192,10 +192,10 @@ int main() {
 	// printRules(3, "");
 	
 	unordered_map<char, string> rule;
-	rule['0'] = "0";
-	rule['1'] = "011";
+	rule['A'] = "AB";
+	rule['B'] = "AA";
 
-	string seed = "1";
+	string seed = "B";
 
 	string seq = seed;
 	for(int i = 0; i < 10; i++) {
